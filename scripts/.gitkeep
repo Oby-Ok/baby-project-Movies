@@ -1,1 +1,8 @@
+import pandas as pd
+
+# Read CSV using a relative path
+df = pd.read_csv("../data/data.csv")  
+
+# Display first few rows (optional)
+print(df.head())
 
