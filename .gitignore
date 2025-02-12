@@ -173,12 +173,10 @@ cython_debug/
 *.csv
 *.xlsx
 *.json
-*.zip
+
 
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 !data/*.csv
 !clean_data/*.csv
-# Example .gitignore
-*.zip           # Ignore all .zip files
-!documents/Movies Dataset Analysis (1).zip  # Except this one
+
