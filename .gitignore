@@ -177,3 +177,5 @@ cython_debug/
 
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+!data/*.csv
+!clean_data/*.csv
