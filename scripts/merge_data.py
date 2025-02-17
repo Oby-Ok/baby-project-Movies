@@ -1,13 +1,13 @@
 import pandas as pd
 
-# Load the datasets
-data1 = pd.read_csv("../data/data.csv")  # Main dataset
-data2 = pd.read_csv("../data/new_data.csv")  # New dataset to merge
+# Load datasets
+cleaned_data = pd.read_csv("../clean_data/cleaned_student_survey_Oby_2025-02-05.csv")
+new_data = pd.read_csv("../data/Statistics_Survey2025.csv")
 
-# Merge on the 'ID' column (assuming it's a common key)
-merged_data = pd.merge(data1, data2, on="ID", how="inner")
+# Perform an inner merge on a common key (modify key as needed)
+merged_data = pd.merge(cleaned_data, new_data, on="ID", how="inner")
 
 # Save the merged dataset
 merged_data.to_csv("../data/merged_data.csv", index=False)
 
-print("Merged dataset saved as merged_data.csv")
+print(" Merging complete. Merged dataset saved as 'merged_data.csv'.")
