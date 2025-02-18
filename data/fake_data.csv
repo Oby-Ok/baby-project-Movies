@@ -1,0 +1,51 @@
+expected_salary,gender,age,transport_mode,monthly_expenses
+4000,Male,36,Public Transit,2422
+2000,Female,39,Public Transit,4328
+5000,Female,26,Public Transit,4153
+3500,Female,32,Drive,3223
+3000,Male,30,Public Transit,3098
+2500,Female,18,Public Transit,2344
+4000,Male,33,Walk,1421
+2000,Male,29,Drive,1196
+2500,Male,19,Drive,3330
+2000,Female,32,Walk,4845
+5000,Female,39,Walk,2528
+4000,Male,26,Drive,1274
+3500,Female,34,Walk,4781
+3500,Male,30,Drive,4133
+5000,Male,18,Drive,1136
+2000,Male,36,Public Transit,556
+2500,Male,23,Public Transit,3397
+2000,Male,39,Drive,1746
+4000,Female,36,Public Transit,3579
+4000,Female,26,Walk,2700
+3500,Female,27,Public Transit,3103
+3500,Female,21,Walk,4758
+3500,Male,23,Walk,1062
+4000,Female,19,Public Transit,2901
+2000,Female,32,Walk,751
+4000,Female,39,Public Transit,4368
+2000,Male,34,Drive,1497
+3500,Female,35,Public Transit,3174
+3500,Female,28,Walk,2802
+3500,Female,29,Public Transit,990
+3500,Female,19,Drive,597
+2000,Female,29,Drive,4239
+3500,Male,30,Drive,2463
+5000,Male,33,Walk,700
+2500,Male,27,Walk,4942
+3000,Female,23,Public Transit,1340
+4000,Male,29,Walk,1045
+5000,Male,33,Drive,2984
+2500,Female,32,Walk,2110
+3500,Female,18,Public Transit,3721
+5000,Female,32,Public Transit,830
+2500,Male,22,Walk,2118
+2500,Male,30,Drive,3308
+3000,Female,35,Walk,1910
+2500,Female,35,Walk,3159
+3000,Male,29,Walk,3523
+2500,Male,29,Walk,3493
+3000,Male,36,Walk,4159
+2000,Male,20,Walk,2735
+2500,Female,34,Walk,1542

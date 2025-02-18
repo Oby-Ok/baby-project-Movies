@@ -1,5 +1,1 @@
-ID,Name,Age,Score,Department,Salary,Performance
-1,Alice,23,85,HR,50000,Excellent
-2,Bob,25,90,IT,60000,Good
-3,Charlie,22,78,Marketing,55000,Fair
-4,David,24,88,Finance,62000,Excellent
+program,gender_x,age_x,height,weight,prev_salary,expected_salary,preferred_organization,Do you LIVE WITH YOUR PARENTS? ,monthly_expenses_x,transport_mode_x,transport_cost,entertainment_cost,cellphone_cost,foot_size,alcoholic_drinks_per_week,sleep_hours,How much time in hours do you spend each week on social netorking sites?,study_hours,work_hours,travel_outside_NA,pay_own_tuition,coffees_per_day,height_m,BMI,coffee_per_week,total_monthly_expense,gender_y,age_y,transport_mode_y,monthly_expenses_y
