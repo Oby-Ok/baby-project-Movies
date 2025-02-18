@@ -13,4 +13,4 @@ merged_data = pd.merge(cleaned_data, fake_data, on="expected_salary", how="inner
 
 # Save the merged dataset
 merged_data.to_csv("../data/merged_data.csv", index=False)
-print("✅ Merging complete. Merged dataset saved as 'merged_data.csv'.")
+print(" Merging complete. Merged dataset saved as 'merged_data.csv'.")
